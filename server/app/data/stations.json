@@ -1,0 +1,8 @@
+{
+  "SBC": { "name": "KSR Bengaluru", "lat": 12.9778, "lng": 77.5713 },
+  "MAS": { "name": "Chennai Central", "lat": 13.0827, "lng": 80.2707 },
+  "BCT": { "name": "Mumbai Central", "lat": 18.9690, "lng": 72.8194 },
+  "NDLS": { "name": "New Delhi", "lat": 28.6430, "lng": 77.2194 },
+  "HWH": { "name": "Howrah Jn", "lat": 22.5855, "lng": 88.3426 },
+  "PNBE": { "name": "Patna Jn", "lat": 25.6095, "lng": 85.1416 }
+}

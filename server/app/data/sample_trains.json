@@ -1,0 +1,7 @@
+[
+  { "number": "12627", "name": "Karnataka Exp", "stations": ["SBC", "NDLS"] },
+  { "number": "12951", "name": "Mumbai Rajdhani", "stations": ["BCT", "NDLS"] },
+  { "number": "12839", "name": "Howrah Mail", "stations": ["HWH", "MAS"] },
+  { "number": "12309", "name": "Tejas Rajdhani A", "stations": ["HWH", "NDLS"] },
+  { "number": "12310", "name": "Tejas Rajdhani B", "stations": ["NDLS", "HWH"] }
+]
